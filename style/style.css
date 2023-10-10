@@ -99,7 +99,7 @@ header{
 
 section.navigation{
     padding: .8rem 0;
-    background-color: #7ffed3;
+    background-color: #3161E0;
 }
 
 
@@ -141,7 +141,7 @@ section.navigation div.login{
 
 section#jumbo{
     /* height: 300px; */
-    background-color: #00008a;
+   background-image: url(../);
     padding: 3rem 0;
 }
 
