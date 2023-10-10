@@ -39,6 +39,13 @@ body{
 
 .dotted-test{
     color: white;
+    
+}
+
+.button-accedi{
+    font-size: 18px;
+    border-radius: 2rem
+    
 }
 
 .columns{
