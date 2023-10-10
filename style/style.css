@@ -99,13 +99,13 @@ header{
 
 section.navigation{
     padding: .8rem 0;
-    background-color: #3161E0;
+    background-color: #255EE9;
 }
 
 
 header section.navigation > div{
     /* height: 40px; */
-    background-color: goldenrod;
+    background-color: #255EE9;
 }
 
 header section.navigation div.brand,
