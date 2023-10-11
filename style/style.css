@@ -18,6 +18,8 @@ body{
 .flex-j-center{
     display: flex;
     justify-content: space-around;
+    font-size: 25px;
+    padding: 1rem;
 }
 
 .flex-j-between{
@@ -165,9 +167,9 @@ header{
     padding: 0 0 .25rem;
 }
 
-section.navigation{
-    padding: .8rem 0;
-    background-color: #23272A;
+section.navigation1{
+    height: 100px;
+    background-color: #255EE9;
 }
 
 
@@ -223,6 +225,7 @@ footer{
 }
 .titolo-footer{
     text-align: start;
+    color: #7289DA;
 }
 
 div.footer-divider{
@@ -235,11 +238,18 @@ div.footer-divider{
 section.links{
     padding-top: .5rem;
 }
-ul,li{
+.lista{
     list-style: none;
     display: flex;
     flex-direction: column;
     padding: .50rem;
+    text-align: left;
+}
+ul,li{
+    list-style: none;
+}
+h2{
+    color: #7289DA;
 }
 
 div.button{
