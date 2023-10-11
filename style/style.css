@@ -80,27 +80,12 @@ p{
 }
 
 
-.column-destro{
-    display: flex;
-    justify-content: right;
-    background-image: url(../img/item2.svg);
-    width: 60%;
-    
-
-}
-.column-ultimo{
-    background-image: url(../img/item3.svg);
-    width: 250%;
-    justify-content: start;
-    padding: 5rem;
-
-}
 .primo-testo{
     color: black;
     text-align: start;
 }
 .paragraffo-destro{
-    font-size: 150%;
+    font-size: 20px;
     color: #171B1E;
 
 }
@@ -109,7 +94,7 @@ p{
     text-align: left;
 }
 .paragraffo-sinistro{
-    font-size: 150%;
+    font-size: 20px;
     color: #171B1E;
 }
 .terzo-testo{
@@ -117,7 +102,7 @@ p{
     text-align: start;
 }
 .paragraffo-ultima{
-    font-size: 150%;
+    font-size: 20px;
     color: #171B1E;
     text-align: start;
 }
