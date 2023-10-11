@@ -135,19 +135,18 @@ p{
 }
 
 .column-70{
-    background-color: #20b1a9 ;
+    background-color: #23272A ;
     width: 70%;
     height: 500px;
 }
 
 .column-30{
-    background-color: #ef7f7f;
+    background-color: #23272A;
     height: 500px;
     width: 30%;
 }
 
 .column-quarters{
-    border: 2px dashed white;
     width: calc(100% / 4);
 }
 
@@ -168,13 +167,13 @@ header{
 
 section.navigation{
     padding: .8rem 0;
-    background-color: #255EE9;
+    background-color: #23272A;
 }
 
 
 header section.navigation > div{
     /* height: 40px; */
-    background-color: #255EE9;
+    background-color: #23272A;
 }
 
 header section.navigation div.brand,
@@ -235,7 +234,9 @@ section.links{
 }
 
 div.button{
-    background-color: #feb5c0;
+    background-color: #23272A;
     height: 2rem;
     padding: .25rem .5rem;
+    border-radius: 25%;
+    border-color: white;
 }
