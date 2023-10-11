@@ -120,9 +120,12 @@ p{
 
 .column-single{
     background-image: url(../img/item4-big.svg);
-    width: 150%;
-    height: 1000px;
-    margin: auto;
+    height: 485px;
+    width: 85%;
+}
+.titolo-columnsingle{
+    font-size: 700px;
+
 }
 
 .column-70{
