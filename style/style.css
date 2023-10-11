@@ -80,8 +80,11 @@ p{
     width: 60%;
 
 }
+.primo-testo{
+    color: black;
+}
 
-.column-small{
+.column-primo-testo{
     background-color: #febfca;
     width: 40%;
 }
