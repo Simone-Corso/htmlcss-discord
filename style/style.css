@@ -235,6 +235,12 @@ div.footer-divider{
 section.links{
     padding-top: .5rem;
 }
+ul,li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding: .50rem;
+}
 
 div.button{
     background-color: #23272A;
