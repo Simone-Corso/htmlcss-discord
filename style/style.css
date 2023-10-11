@@ -221,6 +221,9 @@ div.jumbotron{
 footer{
     background-color: #23272a;
 }
+.titolo-footer{
+    text-align: start;
+}
 
 div.footer-divider{
     background-color: white;
