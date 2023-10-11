@@ -79,11 +79,7 @@ p{
     height: 400px;
 }
 
-.column-sinistro{
-    background-image: url(../img/item1.svg);
-    width: 60%;
-    
-}
+
 .column-destro{
     display: flex;
     justify-content: right;
@@ -263,10 +259,24 @@ h2{
     color: #7289DA;
     font-size: 80%
 }
-
-div.button{
-    background-color: #23272A;
+.button-left{
+    background-color: white;
     height: 2rem;
-    border-color: white;
     display: inline-block;
+    padding: 0.8rem 1.6rem;
+    border-radius: 2rem;
+    margin-right: 2rem;
+    color: #171B1E;
 }
+.button-center{
+    background-color: black;
+    height: 2rem;
+    display: inline-block;
+    padding: 0.8rem 1.6rem;
+    border-radius: 2rem;
+    margin-right: 2rem;
+    color: white;
+}
+
+
+
