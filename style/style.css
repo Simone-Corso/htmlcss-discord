@@ -127,6 +127,12 @@ p{
     font-size: 700px;
 
 }
+.paragraffo-single{
+    font-size: 150%;
+    color: #171B1E;
+    text-align: center;
+    padding: 3rem;
+}
 
 .column-70{
     background-color: #20b1a9 ;
