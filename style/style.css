@@ -70,6 +70,16 @@ p{
     background-image: url(../img/item1.svg);
     width: 60%;
 }
+.column-destro{
+    background-image: url(../img/item2.svg);
+    width: 60%;
+
+}
+.column-ultimo{
+    background-image: url(../img/item3.svg);
+    width: 60%;
+
+}
 
 .column-small{
     background-color: #febfca;
