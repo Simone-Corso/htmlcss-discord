@@ -32,7 +32,7 @@ body{
 }
 
 .jumbo-container{
-    max-width: 700px;
+    max-width: 500px;
     /* width: 50% */
     margin: 0 auto;
 }
@@ -44,10 +44,20 @@ body{
 
 .button-accedi{
     font-size: 18px;
-    border-radius: 2rem
+    border-radius: 2rem;
+    
     
 }
-
+h1{
+    font-size: 300%;
+    text-align: center;
+}
+p{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 250%;
+}
 .columns{
     padding: 3rem 0;
 }
@@ -56,8 +66,8 @@ body{
     height: 400px;
 }
 
-.column-big{
-    background-color: #1e8ffe;
+.column-sinistro{
+    background-image: url(../img/item1.svg);
     width: 60%;
 }
 
