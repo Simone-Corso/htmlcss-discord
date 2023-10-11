@@ -72,8 +72,11 @@ p{
     
 }
 .column-destro{
+    display: flex;
+    justify-content: right;
     background-image: url(../img/item2.svg);
     width: 60%;
+    
 
 }
 .column-ultimo{
@@ -86,6 +89,15 @@ p{
     text-align: start;
 }
 .paragraffo-destro{
+    font-size: 150%;
+    color: #171B1E;
+
+}
+.secondo-testo{
+    color: black;
+    text-align: left;
+}
+.paragraffo-sinistro{
     font-size: 150%;
     color: #171B1E;
 
