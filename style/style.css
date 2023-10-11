@@ -69,6 +69,7 @@ p{
 .column-sinistro{
     background-image: url(../img/item1.svg);
     width: 60%;
+    
 }
 .column-destro{
     background-image: url(../img/item2.svg);
@@ -82,10 +83,16 @@ p{
 }
 .primo-testo{
     color: black;
+    text-align: start;
+}
+.paragraffo-destro{
+    font-size: 150%;
+    color: #171B1E;
+
 }
 
 .column-primo-testo{
-    background-color: #febfca;
+    
     width: 40%;
 }
 
